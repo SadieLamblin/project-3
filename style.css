@@ -1,0 +1,95 @@
+nav {
+	justify-content: flex-end;
+
+}
+
+
+div.container.nav {
+	display: flex;
+	justify-content: flex-start;
+}
+
+a {
+	padding: 2px;
+}
+
+div.container.pp {
+	display: flex;
+	justify-content: flex-end;
+}
+
+div h1.pop {
+	font-size: 11px;
+	margin-left: 15%;
+}
+
+div.container.bg-light {
+	padding-right: 0;
+	padding-left: 25px;
+	margin-top: 25px;
+	padding-bottom: 25px;
+}
+
+img.one {
+	padding-bottom: 5px;
+}
+
+img.two {
+	padding-bottom: 5px;
+}
+
+div h1.pop {
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+.topnav a.active {
+	color:black;
+	padding-left: 30px;
+
+}
+
+div a {
+	color:white;
+}
+
+.topnav input[type=text] {
+	j
+}
+
+div.one {
+	float: right;
+}
+
+div.col.search {
+	padding-left: 40%;
+	color: darkgrey;
+	padding-right: 0;
+
+}
+
+div img.selfie {
+	padding-bottom: 7%;
+}
+
+div.container.main {
+	padding-top: 2%;
+}
+
+div img.one {
+	margin-left: 20%;
+}
+
+
+div img.two {
+	margin-left: 20%;
+}
+
+
+div img.three {
+	margin-left: 20%;
+}
+
+div.bg-light.pop {
+	padding-bottom: 7%;
+}
